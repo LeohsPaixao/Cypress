@@ -1,7 +1,7 @@
 {
   "name": "cypress",
   "version": "1.0.0",
-  "description": "Curso de Cypress",
+  "description": "Aprendendo a utilizar um Framework de Teste do JavaScript em Sites derivados.",
   "main": "index.js",
   "scripts": {
     "test": "cypress run"
